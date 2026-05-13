@@ -31,8 +31,8 @@ Senior Software Engineer with **17+ years of experience** architecting and build
 |:------:|---------|------|-------|
 | 2011 → now | **NaEsquina Tecnologia** | Founder & Software Engineer | Real-time tracking, AI automation |
 | 2023–2026 | **CENTRAL IT** | Senior Software Engineer | Go microservices, chatbot platform, CI/CD |
+| 2022–2023 | **CENTRAL INFORMATION TECH** | Tech Lead & Scrum Master | React Native, IoT (BLE/Serial) |
 | 2019–2022 | **ALLTECH** | Solutions Architect | OpenShift, Infraero, Ansible automation |
-| 2022–2023 | **CENTRAL IT** | Tech Lead & Scrum Master | React Native, IoT (BLE/Serial) |
 | 2017–2019 | **INDRA SISTEMAS** | Systems Analyst | SisProuni 2.0, CAPES APIs |
 
 <details>
@@ -50,15 +50,6 @@ Senior engineer called into the architecture team to re-engineer an enterprise c
 - Created an embeddable web widget for chatbot integration into legacy government portals
 - Contributed architecture standards — service contracts, testing strategies, code review, and observability — for a cross-functional team of **10+ engineers**
 
-### Solutions Architect | ALLTECH SOLUÇÕES
-`Oct 2019 – May 2022` · Kubernetes, OpenShift, Ansible, Docker, Ceph, Jenkins, GitLab CI, ESXi, vCenter
-
-Red Hat Champion leading architecture and deployment of enterprise Kubernetes/OpenShift solutions for clients including Infraero (national airport operator, 54+ airports).
-
-- Designed and deployed OpenShift clusters with up to **30 nodes**, implementing high-availability control planes, persistent storage via Ceph, and Day-2 operations automated with Ansible
-- Automated infrastructure provisioning and conducted technical pre-sales for enterprise clients
-- Migrated applications to containers with CI/CD pipelines
-
 ### Tech Lead & Scrum Master | CENTRAL INFORMATION TECHNOLOGY
 `Sep 2022 – Mar 2023` · React Native, Node.js, AdonisJS, MongoDB, BLE, Serial
 
@@ -67,6 +58,15 @@ Led a 3-person engineering team building a BLE beacon monitoring mobile applicat
 - Defined the architecture for a React Native mobile app with AdonisJS/Node.js backend and MongoDB
 - Built an IoT module integrating Serial and BLE communication for physical asset tracking
 - Established code review culture and mentored junior developers
+
+### Solutions Architect | ALLTECH SOLUÇÕES
+`Oct 2019 – May 2022` · Kubernetes, OpenShift, Ansible, Docker, Ceph, Jenkins, GitLab CI, ESXi, vCenter
+
+Red Hat Champion leading architecture and deployment of enterprise Kubernetes/OpenShift solutions for clients including Infraero (national airport operator, 54+ airports).
+
+- Designed and deployed OpenShift clusters with up to **30 nodes**, implementing high-availability control planes, persistent storage via Ceph, and Day-2 operations automated with Ansible
+- Automated infrastructure provisioning and conducted technical pre-sales for enterprise clients
+- Migrated applications to containers with CI/CD pipelines
 
 ### Systems Analyst | INDRA SISTEMAS
 `Jan 2017 – Jun 2019` · PHP, Laravel, Lumen, Angular, Oracle, Redis, Docker, Jenkins, OpenShift

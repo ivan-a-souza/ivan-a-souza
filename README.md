@@ -2,15 +2,15 @@
 
 # Ivan Augusto Xavier Souza
 
-**Senior Software Engineer | Node.js, Go & Cloud-Native | 17+ years**
+**Senior Software Engineer | 17+ years**
 
-Building distributed systems at scale — government platforms, financial infrastructure, real-time tracking
+Architecting distributed systems at scale — government & enterprise
 
 Brasília, Brazil · [UTC−3]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-augusto-xavier-souza/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivan-a-souza)
-[![Resume](https://img.shields.io/badge/Resume-PT-1a365d?style=for-the-badge)](https://ivan-a-souza.github.io/cv-ivan-augusto-xavier-souza-pt-br.pdf)
+[![Resume PT](https://img.shields.io/badge/Curr%C3%ADculo-PT-1a365d?style=for-the-badge)](https://ivan-a-souza.github.io/cv-ivan-augusto-xavier-souza-pt-br.pdf)
 [![Resume EN](https://img.shields.io/badge/Resume-EN-2d5a9e?style=for-the-badge)](https://ivan-a-souza.github.io/cv-ivan-augusto-xavier-souza-en.pdf)
 
 </div>
@@ -19,125 +19,122 @@ Brasília, Brazil · [UTC−3]
 
 ## About
 
-Backend engineer specialized in **Node.js**, **Go**, and **cloud-native platforms** (Kubernetes/OpenShift) with 17+ years of experience architecting distributed systems for government and enterprise clients. **Red Hat Champion** and **Certified ScrumMaster®**.
+Senior Software Engineer with **17+ years of experience** architecting and building distributed systems for government and enterprise clients. Specialized in backend architecture (Node.js, Go), microservices, cloud-native platforms (Kubernetes/OpenShift), and CI/CD pipelines with integrated security. Proven track record in modernizing legacy systems, migrating monoliths to microservices, and reducing delivery cycles through automation. **Red Hat Champion** and **Certified ScrumMaster®**.
 
-Currently working on AI-powered sales automation and real-time vehicle tracking. Previously contributed to major government platforms (CAPES, SisProuni, MEC), airport-scale infrastructure (Infraero, 54+ airports), and enterprise chatbot platforms.
-
-**Languages**: Portuguese (native) · English (intermediate — technical reading & professional writing)
+**Languages:** Portuguese (native) | English (intermediate — strong technical reading, professional written communication)
 
 ---
 
-## Career
+## Experience
 
-| Period | Company | Role | Highlight |
-|:------:|---------|------|-----------|
-| 2011 → now | **NaEsquina** | Founder & Software Engineer | Real-time tracking platform (Node.js, K8s); AI sales agent (in development) |
-| 2023–2026 | **CENTRAL IT** | Senior Software Engineer | Architected monolith→microservices migration: NestJS → 5+ Go services on K8s HA |
-| 2019–2022 | **ALLTECH** | Solutions Architect | Red Hat Champion — OpenShift clusters up to 30 nodes for Infraero |
-| 2022–2023 | **CENTRAL IT** | Tech Lead & Scrum Master | React Native + IoT (BLE/Serial) mobile app for beacon monitoring |
-| 2017–2019 | **INDRA SISTEMAS** | Systems Analyst | SisProuni 2.0 modernization (national scholarship system); CAPES APIs |
+| Period | Company | Role | Focus |
+|:------:|---------|------|-------|
+| 2011 → now | **NaEsquina Tecnologia** | Founder & Software Engineer | Real-time tracking, AI automation |
+| 2023–2026 | **CENTRAL IT** | Senior Software Engineer | Go microservices, chatbot platform, CI/CD |
+| 2019–2022 | **ALLTECH** | Solutions Architect | OpenShift, Infraero, Ansible automation |
+| 2022–2023 | **CENTRAL IT** | Tech Lead & Scrum Master | React Native, IoT (BLE/Serial) |
+| 2017–2019 | **INDRA SISTEMAS** | Systems Analyst | SisProuni 2.0, CAPES APIs |
 
 <details>
-<summary><b>Full details</b></summary>
+<summary><b>Full career details</b></summary>
 <br/>
 
-### NaEsquina Tecnologia — Founder & Software Engineer
-`Mar 2011 - Present` · Node.js, Go, Kubernetes · Brasília, Brazil
+### Senior Software Engineer | CENTRAL IT TECNOLOGIA
+`Jul 2023 – Jan 2026` · Go, Node.js, NestJS, Rust, TypeScript, PostgreSQL, Kubernetes, Jenkins
 
-- Real-time vehicle tracking and messaging platform: Node.js, RabbitMQ, WebSockets, OpenSearch
-- 100% containerized infrastructure on Kubernetes with PostgreSQL, Redis
-- AI sales agent for automated customer engagement and lead qualification (in development)
+Senior engineer called into the architecture team to re-engineer an enterprise chatbot platform, migrating from a NestJS monolith to microservices in Go for government clients.
 
-### CENTRAL IT — Senior Software Engineer
-`Jul 2023 - Jan 2026` · Go, Node.js, Rust, TypeScript · Brasília, Brazil
+- Architected the migration of a NestJS monolith into **5+ independently deployable microservices in Go** on Kubernetes HA
+- Built a complete CI/CD pipeline on Jenkins with SAST, DAST, and automated code review gates — replacing manual bi-weekly deployments with on-demand releases
+- Developed **Rust components** for the platform's NLU engine, processing high-throughput intent classification
+- Created an embeddable web widget for chatbot integration into legacy government portals
+- Contributed architecture standards — service contracts, testing strategies, code review, and observability — for a cross-functional team of **10+ engineers**
 
-- Re-engineered enterprise chatbot platform: NestJS monolith → 5+ Go microservices on K8s HA
-- Built CI/CD pipeline (Jenkins) with SAST/DAST gates and automated code review — on-demand deploys
-- Developed Rust components for NLU engine (high-throughput intent classification)
-- Created embeddable web widget for chatbot integration into legacy government portals
-- Contributed architecture standards, service contracts, testing strategies for 10+ engineer team
+### Solutions Architect | ALLTECH SOLUÇÕES
+`Oct 2019 – May 2022` · Kubernetes, OpenShift, Ansible, Docker, Ceph, Jenkins, GitLab CI, ESXi, vCenter
 
-### ALLTECH Soluções — Solutions Architect
-`Oct 2019 - May 2022` · Kubernetes, OpenShift, Ansible, Ceph · Brasília, Brazil
+Red Hat Champion leading architecture and deployment of enterprise Kubernetes/OpenShift solutions for clients including Infraero (national airport operator, 54+ airports).
 
-- Red Hat Champion — designed and deployed OpenShift clusters up to 30 nodes
-- HA control planes, Ceph storage, Ansible-automated Day-2 operations
-- Automated infrastructure provisioning; technical pre-sales for enterprise clients
-- Migrated applications to containers with Jenkins/GitLab CI pipelines
+- Designed and deployed OpenShift clusters with up to **30 nodes**, implementing high-availability control planes, persistent storage via Ceph, and Day-2 operations automated with Ansible
+- Automated infrastructure provisioning and conducted technical pre-sales for enterprise clients
+- Migrated applications to containers with CI/CD pipelines
 
-### CENTRAL INFORMATION TECHNOLOGY — Tech Lead & Scrum Master
-`Sep 2022 - Mar 2023` · React Native, Node.js, AdonisJS, MongoDB · Brasília, Brazil
+### Tech Lead & Scrum Master | CENTRAL INFORMATION TECHNOLOGY
+`Sep 2022 – Mar 2023` · React Native, Node.js, AdonisJS, MongoDB, BLE, Serial
 
-- Led 3-person team building BLE beacon monitoring mobile app with IoT (Serial + BLE)
-- Defined architecture: React Native + AdonisJS/Node.js + MongoDB
-- Established code review culture and junior developer mentoring
+Led a 3-person engineering team building a BLE beacon monitoring mobile application with IoT capabilities.
 
-### INDRA SISTEMAS — Systems Analyst
-`Jan 2017 - Jun 2019` · PHP, Laravel, Angular, Oracle · Brasília, Brazil
+- Defined the architecture for a React Native mobile app with AdonisJS/Node.js backend and MongoDB
+- Built an IoT module integrating Serial and BLE communication for physical asset tracking
+- Established code review culture and mentored junior developers
 
-- Built REST APIs (JWT) in Laravel/Lumen for CAPES government education platforms
-- Architected SisProuni 2.0 modernization — Brazil's national university scholarship system
-- Contributed to Carolina Bori platform (national degree validation)
-- Integrated Redis/Memcached caching; CI/CD with Docker, Jenkins, OpenShift
+### Systems Analyst | INDRA SISTEMAS
+`Jan 2017 – Jun 2019` · PHP, Laravel, Lumen, Angular, Oracle, Redis, Docker, Jenkins, OpenShift
+
+- Built REST APIs with JWT authentication in Laravel/Lumen for government education platforms (CAPES)
+- Architected the **SisProuni 2.0** modernization — Brazil's national university scholarship program
+- Contributed to the Carolina Bori Platform — national degree validation system
+
+### Founder & Software Engineer | NAESQUINA TECNOLOGIA
+`Mar 2011 – Present` · Node.js, Go, Angular, Ionic, PostgreSQL, RabbitMQ, Redis, WebSockets, OpenSearch, Kubernetes, Docker
+
+Building proprietary solutions in geolocation search, real-time vehicle tracking, and AI-powered automation.
+
+- Real-time tracking and messaging platform with Node.js, RabbitMQ, WebSockets, and OpenSearch
+- 100% containerized infrastructure on Kubernetes with Docker, PostgreSQL, and Redis
+- AI sales agent for automating customer engagement and lead qualification (in development)
 
 ### Earlier roles
 
-| Period | Role | Company | Tech |
-|:------:|------|---------|------|
-| 2015–2017 | Software Engineer | MBA TECNOLOGIA | 6 mobile apps for MEC/INEP/Saúde — PHP, jQuery, Oracle |
-| 2013–2014 | Systems Analyst/Developer | SQUADRA (ANTT) | GIS railway system — PHP, PostGIS, ETL |
-| 2008–2010 | Systems Analyst | UNIMIX | TCU/Imprensa Nacional portals — PHP, Oracle |
-| 2007–2008 | Junior/Mid Developer | TECNISYS | Biometric auth — Java, Oracle |
+| Period | Role | Company | Stack |
+|:------:|------|---------|-------|
+| 2015–2017 | Software Engineer | MBA TECNOLOGIA | PHP, jQuery, Oracle — 6 mobile apps for MEC/INEP/Ministry of Health |
+| 2013–2014 | Systems Analyst/Developer | SQUADRA (ANTT) | PHP, PostGIS, ETL — GIS railway system |
+| 2008–2010 | Systems Analyst | UNIMIX | PHP, Oracle — TCU/Imprensa Nacional web portals |
+| 2007–2008 | Junior/Mid Developer | TECNISYS | Java, Oracle — Biometric authentication (PalmSecure) |
 
 </details>
 
 ---
 
-## Tech Stack
+## Skills
 
-#### Languages & Runtime
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### Backend & Frameworks
-
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-#### Cloud & Infrastructure
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+#### Cloud & Platform
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### CI/CD & Security
-
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 #### Databases & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-%23005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -145,10 +142,17 @@ Currently working on AI-powered sales automation and real-time vehicle tracking.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Bluetooth Virtual Keyboard**](https://github.com/ivan-a-souza/bluetooth-virtual-keyboard) | Rust, BlueZ, D-Bus | Turns Linux into a Bluetooth keyboard via BLE. Clean Architecture — `/dev/input/eventX` → BlueZ D-Bus |
-| [**SOLID ID**](https://github.com/ivan-a-souza/solid-id) | TypeScript | 128-bit unique ID generator (timestamp + entropy + CRC-16). Zero dependencies, time-sortable, checksum-validatable |
-| [**Debian 13 Hardening & Tuning**](https://github.com/ivan-a-souza/debian13-hardening-tuning) | Ansible | Playbook for CIS/STIG hardening + performance tuning. 50+ customizable variables |
-| [**k8s-one**](https://github.com/ivan-a-souza/k8s-one) | Shell, etcd, containerd, Calico | Single-node K8s cluster from scratch with upstream components — no K3s, no kubeadm |
+| [**Bluetooth Virtual Keyboard**](https://github.com/ivan-a-souza/bluetooth-virtual-keyboard) | Rust, BlueZ, D-Bus | Turns Linux into a Bluetooth keyboard via BLE. Clean Architecture — reads kernel input events, communicates with BlueZ over D-Bus |
+| [**SOLID ID**](https://github.com/ivan-a-souza/solid-id) | TypeScript | 128-bit unique ID generator (timestamp + entropy + CRC-16). Zero dependencies, Base62 encoded, time-sortable, checksum-validatable |
+| [**Debian 13 Hardening & Tuning**](https://github.com/ivan-a-souza/debian13-hardening-tuning) | Ansible | Playbook for CIS/STIG hardening and performance tuning of Debian 13 servers. 50+ customizable variables |
+| [**k8s-one**](https://github.com/ivan-a-souza/k8s-one) | Shell, etcd, containerd, Calico | Single-node Kubernetes cluster built from scratch with official upstream components — no K3s, no kubeadm |
+
+---
+
+## Education & Certifications
+
+- 🎓 **Computer Science (B.S.)** — Cruzeiro do Sul University *(in progress — expected 2029)*
+- 🏅 **Certified ScrumMaster (CSM)** — Scrum Alliance, 2016
 
 ---
 

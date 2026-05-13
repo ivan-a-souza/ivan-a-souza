@@ -159,7 +159,7 @@ Building proprietary solutions in geolocation search, real-time vehicle tracking
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-a-souza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=ivan-a-souza&show_icons=true&hide_border=true&theme=dark" height="180"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-a-souza&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-a-souza&theme=dark&hide_border=true" height="180"/>
 </div>
